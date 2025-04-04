@@ -1,6 +1,11 @@
 # Power-BI-Escape-Room
 Trying to make data analysis interesting while learning about a new data analytics tool with a flavor of stats
 
+## Game Link:  [LinkedIn Post](https://lnkd.in/guFMTjgv)
+
+A LinkedIn post linking to a game (the specific game isn't clear from the URL alone).
+
+
 For Admin Purpose only:
 Where is the direct link to Sheets
 n21 Where is the direct link to Power BI (public URL) ?  
